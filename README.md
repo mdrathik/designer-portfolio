@@ -12,7 +12,7 @@
   </kbd>
 </p>
 
-### To view a live / Demo, **[click here](https://desinger-portfolio.netlify.app/)**.
+### **[click here to see Demo](https://desinger-portfolio.netlify.app/)**.
 
 ## Sections
 
