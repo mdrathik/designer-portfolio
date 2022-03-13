@@ -98,7 +98,7 @@
       <div class="card-image bg-green-100">
         <img
           class="object-cover w-full h-72 md:h-96"
-          src="./assets/Mask group.png"
+          src="./assets/mask_group.png.png"
         />
       </div>
     </div>

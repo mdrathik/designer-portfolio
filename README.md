@@ -1,15 +1,18 @@
 <h1 align="center">Welcome to Designer-portfolio 👋</h1>
-#### UI/UX credited to, **[@salmanwap](https://www.figma.com/@salmanwap)**
 
-<hr>
+### UI/UX credit goes to, **[@salmanwap](https://www.figma.com/@salmanwap)**
+
+<hr/>
+
 ## A Simple Portfolio Template built with VueJS (Vite) + TailwindCss
+
 <p align="center">
   <kbd>
     <img src="sample.png"></img>
   </kbd>
 </p>
 
-### To view a live / Demo, **[click here]()**.
+### To view a live / Demo, **[click here](https://desinger-portfolio.netlify.app/)**.
 
 ## Sections
 
