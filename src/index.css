@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-1 {
+  @apply px-5  pt-5 md:pt-10 3xl:px-36 2xl:px-36 xl:px-28 lg:px-24 md:px-16;
+  background-color: #ffeed9;
+}
+
+.banner-2 {
+  @apply px-5  pt-5 md:pt-10 3xl:px-36 2xl:px-36 xl:px-28 lg:px-24 md:px-16;
+  background-color: #ffddbf;
+}
+.bg-yellowis {
+  background-color: #ffddbf;
+}
+.hello-button {
+  background-color: #ffddbf;
+}
+.menu-button {
+  @apply 3xl:text-2xl 2xl:text-2xl xl:text-xl lg:text-xl md:text-xl  font-bold font-work_sans hover:text-black;
+  color: #594f43;
+}
+
+.submit-button {
+  @apply border-gray-800 border-gray-800 3xl:text-xl 2xl:text-xl lg:text-xl md:text-xl text-xs py-2 px-4  lg:py-4 lg:px-8 rounded-2xl font-work_sans font-semibold;
+}
+
+.heading3 {
+  color: #403930;
+  @apply md:text-5xl text-xl font-bold font-work_sans tracking-wide;
+}
+
+.project-title {
+  @apply text-gray-700 text-3xl md:text-4xl font-work_sans tracking-wide font-bold;
+}
+
+.card {
+  @apply bg-white rounded-2xl md:flex place-items-center my-20 shadow-md;
+}
+.card-image {
+  @apply md:w-1/2 md:rounded-r-2xl md:rounded-l-none rounded-b-2xl flex;
+}
+
+@layer utilities {
+  .h-850 {
+    height: 900px;
+  }
+}
