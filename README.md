@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Designer-portfolio 👋</h1>
 
-### UI/UX credit goes to, **[@salmanwap](https://www.figma.com/@salmanwap)**
+<h4 align="center">Spacial Credit goes to : <a target="_blank" href="https://www.figma.com/@salmanwap">@salmanwap</h4>
 
 <hr/>
 
@@ -12,7 +12,7 @@
   </kbd>
 </p>
 
-### To view a live / Demo, **[click here](https://desinger-portfolio.netlify.app/)**.
+<h3>To view a live / Demo : <a target="_blank" href="https://desinger-portfolio.netlify.app/">click here</h3>
 
 ## Sections
 
