@@ -31,7 +31,7 @@ From your command line, clone and run Designer-Portfolio:
 
 ```bash
 # Clone this repository
-$ git clone
+$ git clone https://github.com/mdrathik/designer-portfolio.git
 
 # Go into the repository
 $ cd Designer-portfolio
