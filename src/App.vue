@@ -45,7 +45,7 @@
     <div class="flex items-center">
       <div class="w-11/12 space-y-5 md:space-y-10">
         <h3
-          class="hello-button text-gray-700 w-fit py-3 px-5 rounded-lg 3xl:text-3xl 2xl:text-xl lg:text-xl md:text-md text-sm font-semibold font-work_sans"
+          class="hello-button text-gray-700 w-fit md:py-3 md:px-5 py-1 px-2 rounded-lg 3xl:text-3xl 2xl:text-xl lg:text-xl md:text-md text-sm font-semibold font-work_sans"
         >
           👋 Hola,
         </h3>
@@ -53,7 +53,11 @@
           class="3xl:text-8xl 2xl:text-7xl xl:text-6xl lg:text-4xl md:text-3xl sm:text-3xl text-xl font-Eczar font-bold leading-tight text-gray-700"
         >
           It's
-          <a href="#" target="_blank" class="text-black hover:underline">
+          <a
+            href="https://www.linkedin.com/"
+            target="_blank"
+            class="text-black hover:underline"
+          >
             Aliza Khan</a
           >🙇‍♀️<br />Creative Designer and Storyteller
         </h1>
@@ -267,7 +271,7 @@
 
   <div class="banner-1 flex h-full items-center">
     <div class="w-7/12 p-12">
-      <h2 class="text-gray-700 md:text-6xl text-4xl font-Eczar mb-5 font-bold">
+      <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold">
         Let’s work together and make everything super cute and super useful.
       </h2>
       <a class="underline text-2xl text-blue-600 font-work_sans"
@@ -280,7 +284,7 @@
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
-            class="w-10 h-10 fill-current"
+            class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -295,7 +299,7 @@
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
-            class="w-10 h-10 fill-current"
+            class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -310,7 +314,7 @@
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
-            class="w-10 h-10 fill-current"
+            class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
@@ -325,7 +329,7 @@
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
-            class="w-10 h-10 fill-current"
+            class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
@@ -340,7 +344,7 @@
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
-            class="w-10 h-10 fill-current"
+            class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current"
             role="img"
             viewBox="0 0 256 256"
             xmlns="http://www.w3.org/2000/svg"
